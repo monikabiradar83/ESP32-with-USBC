@@ -1,6 +1,8 @@
 # ESP32-with-USBC
 ESP32 Mini S3 with USB C - 4 Layer PCB Design
+
 Project Overview
+
 This project involves designing a four-layer PCB using Altium Designer for the ESP32 Mini S3 with USB C. All components, footprints, schematics, and 3D models were custom-created and assembled with the guidance of Robert Feranec's YouTube tutorial.
 
 Software Used
@@ -22,23 +24,8 @@ Schematic
 3D Model Bottom View
 <img width="1920" height="1080" alt="Screenshot 2026-04-11 215924" src="https://github.com/user-attachments/assets/39a8430a-f797-4993-a6f9-379d4dd410bc" />
 
-Output Files
-Gerber Files
-Gerber files are used for PCB manufacturing.
-Bill of Materials (BOM)
-Lists all components used in the project.
-NC Drill Files
-Used for drilling holes in the PCB.
-PDF Schematic
-A PDF version of the schematic for easy reference.
-3D PDF
-A 3D PDF file for visualizing the PCB layout in 3D.
-3D STEP File
-A 3D model of the PCB.
-Assembly Drawings
-Detailed drawings for PCB assembly.
-Pick and Place Files
-Files for automated component placement.
+
+
 
 Project Highlights
 
